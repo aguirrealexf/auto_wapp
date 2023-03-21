@@ -11,7 +11,7 @@ account_sid = 'ACda5705fd74129e51c3f240e98a573252'
 auth_token = '1e474dcd6fbb5e06c43ec2d03afdd636' 
 client = Client(account_sid, auth_token) 
 
-alex = 'whatsapp:+5493512261577'
+alex = 'whatsapp:+549351*******'
 
 def send_msj():
     message = client.messages.create( 
